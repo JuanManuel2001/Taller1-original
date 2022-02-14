@@ -1,0 +1,11 @@
+ID del pedido: 57
+Nombre del cliente: Rafael Bernal 
+Dirección del cliente: C
+Precio Total: 53050
+Devuelta: 950
+Producto: corral
+Producto: corral queso
+Combo: combo corral
+Ingrediente: lechuga
+
+FELIZ DÍA

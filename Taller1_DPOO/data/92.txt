@@ -1,0 +1,20 @@
+ID del pedido: 92
+Nombre del cliente: Juan Diego
+Dirección del cliente: A
+Precio Total: 232302
+Devuelta: 0
+Producto: corral
+Producto: corral queso
+Producto: corral pollo
+Producto: corralita
+Producto: todoterreno
+Producto: 1/2 libra
+Producto: gaseosa
+Combo: combo corral
+Combo: combo corral queso
+Combo: combo todoterreno
+Combo: combo especial
+Ingrediente: piña
+Ingrediente: queso fundido
+
+FELIZ D�?A
